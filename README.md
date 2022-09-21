@@ -5,4 +5,9 @@
 - Explore it once and share to your friends.
 
 ## Languages Used
+- HTML
+
+- CSS
+
+- REACT.JS
 
