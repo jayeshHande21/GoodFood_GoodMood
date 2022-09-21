@@ -3,6 +3,7 @@
 - This app also categarised food according to your prefarance.
 - This app is made with react.
 - Explore it once and share to your friends.
+- project Link : https://csb-qdpnmg.netlify.app/
 
 ## Languages Used
 - HTML
